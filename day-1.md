@@ -1,6 +1,8 @@
 # Daily Learning
 
 ## Morning Planning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 - [ ] I want to write a novel
 - [ ] I want to train and run a marathon
 - [ ] I want to graduate from college with a dual degree in Astronomy and Astrophysics and Aerospace Engineering
